@@ -1,2 +1,0 @@
-# -
-Moonstone黑客松-AI数理产品
